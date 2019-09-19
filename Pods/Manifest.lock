@@ -1,0 +1,16 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DZNEmptyDataSet
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+
+PODFILE CHECKSUM: e1cf3228fbb70e757c11a4f9168168f255408771
+
+COCOAPODS: 1.6.2
